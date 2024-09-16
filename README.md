@@ -1,23 +1,23 @@
-# 📚 Super Cool Document Reader
+# Document Reader
 
-Hey there! 👋 Welcome to the Super Cool Document Reader project. This nifty little app lets you read, edit, and do all sorts of cool stuff with your documents. It's like a Swiss Army knife for your files!
+Welcome to the Document Reader project. This versatile application allows you to read, edit, and manage various document formats efficiently.
 
-## 🚀 Features
+## Features
 
-- 📖 Read DOCX, PDF, and TXT files like a boss
-- ✏️ Edit text with a slick GUI
-- 🎨 Change fonts and colors because why not?
-- 🔍 Search through your docs faster than you can say "Where's Waldo?"
-- 💾 Save your masterpieces in various formats
-- 🌓 Toggle between light and dark themes (for those late-night editing sessions)
-- 🤖 Get AI-powered suggestions to make your writing pop!
-- 🚀 Drag and drop files like it's the future
+- Read DOCX, PDF, and TXT files
+- Edit text using a graphical user interface
+- Customize fonts and colors
+- Perform quick searches within documents
+- Save documents in multiple formats
+- Switch between light and dark themes
+- Receive AI-powered writing suggestions
+- Drag and drop file functionality
 
-## 🛠️ Setup
+## Setup
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/super-cool-document-reader.git
+   git clone https://github.com/your-username/document-reader.git
    ```
 2. Install the requirements:
    ```
@@ -27,22 +27,6 @@ Hey there! 👋 Welcome to the Super Cool Document Reader project. This nifty li
    - Copy `config_template.py` to `config.py`
    - Open `config.py` and replace `"INSERT_YOUR_API_KEY_HERE"` with your actual OpenAI API key
 
-## 🏃‍♂️ Running the App
+## Running the Application
 
-Run this command to start the application:
-
-```
-python main.py
-```
-
-
-## 📁 Project Structure
-
-- `main.py`: The ringmaster of this circus
-- `project_gui.py`: Where all the GUI goodness lives
-- `doc_reader.py`: The brains behind reading and writing files
-- `document_analysis.py`: For when you want to get all analytical on your docs
-- `text_summarizer.py`: TL;DR for your documents
-- `themes.py`: Making your app look pretty
-- `collaboration.py`: For when you want to play nice with others
-- `config.py`: Keep your secrets safe here
+Execute the following command to start the application:
